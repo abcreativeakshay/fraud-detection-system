@@ -10,7 +10,7 @@ Features
 - Real-time API deployment
 - Comprehensive evaluation
 
-[![Open in Colab](https://colab.research.google.com/drive/1c4jfo2eIFRpbtdrSpfBIomKqiwXVdfe6#scrollTo=EnG7TOqMdrBl)]
+(https://colab.research.google.com/drive/1c4jfo2eIFRpbtdrSpfBIomKqiwXVdfe6#scrollTo=EnG7TOqMdrBl)
 
 ## How to Use
 1. Click the "Open in Colab" button above
